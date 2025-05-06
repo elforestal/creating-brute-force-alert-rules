@@ -80,7 +80,7 @@ DeviceLogonEvents
   | `194.0.234.44`     | 100                 | `bennyvirtual`    |
   | `10.0.0.8`    | 22, 20                 | `windows-server,ryan-final-lab `     |
 
-![Screenshot 2025-01-06 181511](https://github.com/user-attachments/assets/3134d542-b44d-4036-b2ce-1827bc7dda88)
+![Untitled design](https://github.com/user-attachments/assets/c43be855-6c43-4cda-9dd2-689b9963f520)
 
 - KQL Query to detect failed logins:  
   ```kql
