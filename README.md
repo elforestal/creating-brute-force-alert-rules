@@ -4,7 +4,7 @@
 
 ---
 
-# 🚨 Incident Response: Brute Force Attempt Detection
+# 🚨 Brute Force Attempt Detection Rule Creation For Sentinel
 
 ![image](https://github.com/user-attachments/assets/078932c1-3e7e-48cf-a0c1-1cd787336ce6)
 
